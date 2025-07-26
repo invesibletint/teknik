@@ -29,7 +29,7 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 # =================[ UUID V4 ]===================
 [vars]
 UUID = "5c3c299d-20ac-40ea-a68d-62128020c92d"
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/vapaxemu/teknik/refs/heads/main/web/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/vapaxemu/teknik/refs/heads/main/web/sub.html"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/invesibletint/teknik/refs/heads/main/web/index.html"
+SUB_PAGE_URL = "https://raw.githubusercontent.com/invesibletint/teknik/refs/heads/main/web/sub.html"
 
 # ------- Dimodifikasi oleh: @vpnjatimbot -------
